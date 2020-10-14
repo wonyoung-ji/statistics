@@ -12,7 +12,7 @@
   + [Chapter05 기술통계분석](https://github.com/wonyoung-ji/statistics/blob/master/study/200926_5%EC%9E%A5_%EA%B8%B0%EC%88%A0%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D.ipynb)
   + [Chapter06 t-검정](https://github.com/wonyoung-ji/statistics/blob/master/study/200927_6%EC%9E%A5_t-%EA%B2%80%EC%A0%95.ipynb)
   + [Chapter07 상관관계 분석](https://github.com/wonyoung-ji/statistics/blob/master/study/200927_7%EC%9E%A5_%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%EB%B6%84%EC%84%9D.ipynb)
-  + Chapter08 범주형 데이터 분석
+  + [Chapter08 범주형 데이터 분석](https://github.com/wonyoung-ji/statistics/blob/master/study/200927_8%EC%9E%A5_%EB%B2%94%EC%A3%BC%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.ipynb)
   + Chapter09 신뢰성 분석
   + Chapter10 분산분석
   + Chapter11 회귀분석
