@@ -17,7 +17,7 @@
   + [Chapter10 분산분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201005_10%EC%9E%A5_%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D.ipynb)
   + [Chapter11 회귀분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201010_11%EC%9E%A5_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
   + [Chapter12 요인분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201011_12%EC%9E%A5_%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D.ipynb)
-  + Chapter13 분류예측분석
+  + [Chapter13 분류예측분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201027_13%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%B6%84%EC%84%9D.ipynb)
   + Chapter14 군집분석
   + Chapter15 포지셔닝 분석
   + Chapter16 컨조인트 분석
