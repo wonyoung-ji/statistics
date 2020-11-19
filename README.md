@@ -20,7 +20,7 @@
   + [Chapter13 분류예측분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201027_13%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%B6%84%EC%84%9D.ipynb)
   + Chapter14 군집분석
   + Chapter15 포지셔닝 분석
-  + Chapter16 컨조인트 분석
+  + [Chapter16 컨조인트 분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201103_16%EC%9E%A5_%EC%BB%A8%EC%A1%B0%EC%9D%B8%ED%8A%B8%EB%B6%84%EC%84%9D.ipynb)
   + Chapter17 비모수 통계분석
  
  
