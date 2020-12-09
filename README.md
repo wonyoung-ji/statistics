@@ -1,7 +1,5 @@
 # Statistics
-__2020.09.25 ~ 2020.11.03 동안 통계스터디 진행__
-
-![image](https://user-images.githubusercontent.com/69240962/101648739-7a2ca000-3a7d-11eb-843c-77710d84c2d1.png)
+## 2020.09.25 ~ 2020.11.03 동안 통계스터디 진행__
 <img src = "https://user-images.githubusercontent.com/69240962/101648739-7a2ca000-3a7d-11eb-843c-77710d84c2d1.png" width="300">
 - 참고교재: Step by Step 파이썬 비즈니스 통계분석
 - 출판사: PREDICS
