@@ -31,5 +31,10 @@
 
 
 # Kaggle
-- titanic: 2020.11.23 ~ 2020.12.05
+- titanic
+  - 기간: 2020.11.23 ~ 2020.12.05
+  - accuracy: 84.74%
+  - kaggle score: 0.78468
+  - ![image](https://user-images.githubusercontent.com/69240962/101648199-ed81e200-3a7c-11eb-83a6-7d81050ac48f.png)
+
 
