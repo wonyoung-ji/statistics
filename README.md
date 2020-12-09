@@ -1,5 +1,7 @@
 # Statistics
+__2020.09.25 ~ 2020.11.03 동안 통계스터디 진행__
 
+![image](https://user-images.githubusercontent.com/69240962/101648739-7a2ca000-3a7d-11eb-843c-77710d84c2d1.png)
 - 참고교재: Step by Step 파이썬 비즈니스 통계분석
 - 출판사: PREDICS
 - 저자: 김형수
@@ -18,16 +20,10 @@
   + [Chapter11 회귀분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201010_11%EC%9E%A5_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
   + [Chapter12 요인분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201011_12%EC%9E%A5_%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D.ipynb)
   + [Chapter13 분류예측분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201027_13%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%B6%84%EC%84%9D.ipynb)
-  + Chapter14 군집분석
-  + Chapter15 포지셔닝 분석
+  + [Chapter14 군집분석](https://github.com/wonyoung-ji/study/blob/master/statistics/201028_14%EC%9E%A5_%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D.ipynb)
+  + [Chapter15 포지셔닝 분석](https://github.com/wonyoung-ji/study/blob/master/statistics/201101_15%EC%9E%A5_%ED%8F%AC%EC%A7%80%EC%85%94%EB%8B%9D%EB%B6%84%EC%84%9D.ipynb)
   + [Chapter16 컨조인트 분석](https://github.com/wonyoung-ji/statistics/blob/master/study/201103_16%EC%9E%A5_%EC%BB%A8%EC%A1%B0%EC%9D%B8%ED%8A%B8%EB%B6%84%EC%84%9D.ipynb)
   + Chapter17 비모수 통계분석
- 
- 
- 
- - 5장부터 통계스터디 진행
- - 각 장마다 이론 필기 및 실습
- - 기간: 2020.09.25 ~ 2020.11.03
 
 
 # Kaggle
