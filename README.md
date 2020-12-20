@@ -35,5 +35,5 @@
   - ![image](https://user-images.githubusercontent.com/69240962/101648199-ed81e200-3a7c-11eb-83a6-7d81050ac48f.png)
 
 - [2020_Kaggle_ML_&_DS_Survey](https://www.kaggle.com/c/kaggle-survey-2020)
-  - 기간: 2020.12.11 ~
+  - 기간: 2020.12.11 ~ 2020.12.19
   - 참조: https://www.kaggle.com/subinium/kaggle-2020-visualization-analysis
