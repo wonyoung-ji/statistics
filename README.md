@@ -37,3 +37,4 @@
 - [2020_Kaggle_ML_&_DS_Survey](https://www.kaggle.com/c/kaggle-survey-2020)
   - 기간: 2020.12.11 ~ 2020.12.19
   - 참조: https://www.kaggle.com/subinium/kaggle-2020-visualization-analysis
+  - 설문조사 결과 시각화
