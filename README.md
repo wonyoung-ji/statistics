@@ -38,3 +38,7 @@
   - 기간: 2020.12.11 ~ 2020.12.19
   - 참조: https://www.kaggle.com/subinium/kaggle-2020-visualization-analysis
   - 설문조사 결과 시각화
+  
+ # Dacon
+ - [상점 신용카드 매출 예측 경진대회](https://dacon.io/competitions/official/140472/overview/)
+
