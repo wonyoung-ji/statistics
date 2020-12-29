@@ -41,4 +41,5 @@
   
  # Dacon
  - [상점 신용카드 매출 예측 경진대회](https://dacon.io/competitions/official/140472/overview/)
- - 2년 전 부터 2019.02.28일 까지의 카드 거래 데이터를 이용해 2019.03.01 ~ 2019.05.31까지의 각 상점별 3개월 총 매출을 예측
+ - 기간: 2020.12.29 ~ 
+ - 참조: [펀다 합격자 지성민님](https://dacon.io/competitions/official/140472/codeshare/419?page=2&dtype=recent&ptype=pub)
