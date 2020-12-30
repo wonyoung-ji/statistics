@@ -1,6 +1,6 @@
 # Statistics
 ## 2020.09.25 ~ 2020.11.03 통계스터디 진행
-<img src = "https://user-images.githubusercontent.com/69240962/101648739-7a2ca000-3a7d-11eb-843c-77710d84c2d1.png" width="300">  
+<img src = "https://user-images.githubusercontent.com/69240962/101648739-7a2ca000-3a7d-11eb-843c-77710d84c2d1.png" width="200">  
 
 
 - 참고교재: Step by Step 파이썬 비즈니스 통계분석  
@@ -45,6 +45,6 @@
  - 참조: [펀다 합격자 지성민님](https://dacon.io/competitions/official/140472/codeshare/419?page=2&dtype=recent&ptype=pub)
  
  # Hands-On Machine Learning
- <img src = "https://user-images.githubusercontent.com/69240962/103362830-f8b8b280-4afc-11eb-87bc-0d22325330d5.png" width="150">  
+ <img src = "https://user-images.githubusercontent.com/69240962/103362830-f8b8b280-4afc-11eb-87bc-0d22325330d5.png" width="200">  
  - 참고교재 : Hands-On Machine Learning with Sickit-Learn, Keras & TensorFlow (핸즈온 머신러닝 2판)
  
