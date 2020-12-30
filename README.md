@@ -43,3 +43,8 @@
  - [상점 신용카드 매출 예측 경진대회](https://dacon.io/competitions/official/140472/overview/)
  - 기간: 2020.12.29 ~ 
  - 참조: [펀다 합격자 지성민님](https://dacon.io/competitions/official/140472/codeshare/419?page=2&dtype=recent&ptype=pub)
+ 
+ # Hands-On Machine Learning
+ <img src = "https://user-images.githubusercontent.com/69240962/103362830-f8b8b280-4afc-11eb-87bc-0d22325330d5.png" width="150">  
+ - 참고교재 : Hands-On Machine Learning with Sickit-Learn, Keras & TensorFlow (핸즈온 머신러닝 2판)
+ 
